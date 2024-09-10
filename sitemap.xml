@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://crystalswift.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://crystalswift.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://crystalswift.github.io/mywebsite/surf-eat-sleep-and-repeat.html</loc>
+<lastmod>2024-09-03T09:23:50+02:00</lastmod>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/1/gallery/photo-2.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/1/gallery/photo-3.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/1/gallery/how-to-duck-dive-a-surfboard_1600X900-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/1/gallery/photo-1.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://crystalswift.github.io/mywebsite/trending-stories.html</loc>
+<lastmod>2024-09-10T08:15:09+02:00</lastmod>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/2/Steph-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/2/Erin.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://crystalswift.github.io/mywebsite/media/posts/2/caity-simmers-world-title-john-john-florence.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
